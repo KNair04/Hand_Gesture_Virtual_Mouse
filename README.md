@@ -6,7 +6,8 @@ Step 1:
 Download this project in your pc and unzip it.
 
 Step 2:
-Install the pycharm community and also idle version 3.8 (This version can only provide autopy module)
+Install the pycharm community and also python idle version 3.8 (This version can only provide autopy module)
+Python Idle download link https://www.python.org/downloads/release/python-380/
 
 Step 3: (Here is a video for how to install the modules/libraries https://www.youtube.com/watch?v=w92NvbONSyU)
 Open the project in the pycharm slect the interpreter to 3.8 and then install this modules/libraries-->
