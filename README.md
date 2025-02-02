@@ -19,7 +19,7 @@ Step 4:
 Run the "MainGestureFile" in the pycharm. 
 
 # Output of the Project
-1) Basic Click:
+1) Basic Movements:
 ![OFBasicClick](https://github.com/user-attachments/assets/1352fb4f-b4df-4fb9-ac01-96aa45912fa3)
 
 2) Left Click:
