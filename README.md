@@ -1,5 +1,5 @@
 # Hand_Gesture_Virtual_Mouse
-This project uses the hand gesture to perform basic mouse function like left click, right click, zoom in and zoom out.
+This project uses the hand gesture to perform basic mouse function like left click, right click, zoom in and zoom out. If BlackBook is required notify me.
 
 # To run this project:
 Step 1:
@@ -17,3 +17,19 @@ Step 3: (Here is a video for how to install the modules/libraries https://www.yo
 
 Step 4:
 Run the "MainGestureFile" in the pycharm. 
+
+# Output of the Project
+1) Basic Click:
+![OFBasicClick](https://github.com/user-attachments/assets/1352fb4f-b4df-4fb9-ac01-96aa45912fa3)
+
+2) Left Click:
+![OFLeftClick](https://github.com/user-attachments/assets/23785c43-bd8c-4bbf-9c98-1bdd9ebbd5a2)
+
+3) Right Click:
+![OFRightClick](https://github.com/user-attachments/assets/93c7509d-ca1a-4da3-b923-82ed40031707)
+
+4) Zoom In:
+![OFZoomIn](https://github.com/user-attachments/assets/b0d2b781-6566-43f9-b8f9-482f65656d53)
+
+5) Zoom Out:
+![OFZoomOut](https://github.com/user-attachments/assets/1be2a3cf-3e23-46fe-b6d4-1c7b52f8b456)
